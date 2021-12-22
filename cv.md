@@ -33,6 +33,14 @@ SoloLearn
 @MAIL.RU group stepik.org
 [Постановка задачи на разработку По 2020](https://stepik.org/cert/370011)
 
+@MAIL.RU group stepik.org - Основы HTML и CSS
+
+Code Basics - HTML
+
+Code Basics - CSS
+
+JavaScript.ru - Git
+
 ------------------------------------------------------------------------
 Education
 ------------------------------------------------------------------------
