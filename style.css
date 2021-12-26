@@ -1,0 +1,26 @@
+.body {
+    max-width: 1440px;
+    margin: 0 auto;
+    background-color: rgb(37, 37, 37);
+    margin: 20px;
+}
+.container {
+    background-color: antiquewhite;
+}
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.photo {
+    display: flex;
+    justify-content: end;
+}
+.hr-line {
+    color: rgb(247, 252, 252);
+    margin:0 auto;
+    padding: 40px;
+    height: 6px;
+    border: none;
+    background: linear-gradient(45deg, #333, #ffffff);
+    }
