@@ -2,12 +2,11 @@
     box-sizing: border-box;
 }
 .body {
-    max-width: 1440px;
-    margin: 0 auto;
     background-color: rgb(37, 37, 37);
-    margin: 20px;
-}
+}    
 .container {
+    max-width: 1440px;
+    margin: auto;
     background-color: antiquewhite;
 }
 .Jun {
@@ -23,79 +22,74 @@
 
     display: flex;
     justify-content: space-around;
-
     flex-direction: row;
 }
 .photo {
     display: flex;
     justify-content: end;
+    margin: 10px;
 }
 .hr-line {
     color: rgb(247, 252, 252);
     margin:0 auto;
     padding: 40px;
-    height: 6px;
     border: none;
     background: linear-gradient(45deg, #333, #ffffff);
-    }
+}
 .Contacts {
         text-align: center;
         margin:0 auto;
         padding: 40px;
-        height: 0;
         border: none;
         border-bottom: 1px solid #333;
-    }
+}
 .Certificates {
+
         text-align: center;
         margin:0 auto;
         padding: 40px;
-        height: 0;
         border: none;
         border-bottom: 1px solid #333; 
 }
-.Cert {
-        margin-left: 40px;
-} 
 .education {
         text-align: center;
         margin:0 auto;
         padding: 40px;
-        height: 0;
         border: none;
         border-bottom: 1px solid #333;   
 } 
-.edu {
-        margin-left: 40px;
+.Cert {
+    margin-left: 30px;
 }
 .Mitso {
         text-decoration: underline;
         margin:0 auto;
 }
+.edu {
+    margin-left: 30px;
+}
 .Skills {
         text-align: center;
         margin:0 auto;
-        padding: 40px;
-        height: 0;
+        padding: 50px;
         border: none;
         border-bottom: 1px solid #333;
 }
-.Ski { 
+.SkillsL {
     font-weight: bold;
-    margin:0 auto;
-    padding: 20px;
 }
 .Instruments {
     text-align: center;
-    margin: auto;
+    margin: 0 auto;
     padding: 40px;
-    height: 0;
     border: none;
-    border-bottom: 1px solid #333;
+    font-weight: bold;
+    border-bottom: 1px solid #333;   
 }
-.Instru {
-    margin:0 auto;
+.InstrumentsLi {
+    font-weight: bold;
 }
+    
 .SoftSkills {
     text-align: center;
     margin:0 auto;
@@ -104,8 +98,8 @@
     border: none;
     border-bottom: 1px solid #333;
 }
-.soft {
-    margin:0 auto;
+.Softy {
+    font-weight: bold;
 }
 .Languages {
     text-align: center;
@@ -115,6 +109,19 @@
     border: none;
     border-bottom: 1px solid #333;
 }
-.lang {
-    margin-left: 40px;
+
+.footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    color: rgb(247, 252, 252);
+    margin:0 auto;
+    padding: 40px;
+    height: 6px;
+    border: none;
+    background: linear-gradient(45deg, #333, #ffffff);
+}
+.year {
+    padding: 15px;
 }
