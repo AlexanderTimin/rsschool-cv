@@ -109,7 +109,9 @@
     border: none;
     border-bottom: 1px solid #333;
 }
-
+.lang {
+    margin-left: 30px;
+}
 .footer {
     display: flex;
     flex-direction: row;
