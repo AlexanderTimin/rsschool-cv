@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+
 }
 .body {
     background-color: rgb(37, 37, 37);
@@ -42,6 +43,10 @@
         padding: 40px;
         border: none;
         border-bottom: 1px solid #333;
+}
+.phone {
+    font-size: 20px;
+    font-weight: bold;
 }
 .Certificates {
 
