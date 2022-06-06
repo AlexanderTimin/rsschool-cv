@@ -75,6 +75,6 @@ Teamwork, analytical thinking, conflict resolution, rapid prototyping, requireme
 Languages
 ------------------------------------------------------------------------
 Russian, Belarusian.
-English A2 +
+English A2+
 
 
