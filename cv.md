@@ -48,7 +48,7 @@ MITSO International University
 
 Qualification: Manager-Economist
 
-Specialty: Economics and Enterprise Managemen
+Specialty: Economics and Enterprise Management
 
 2012
 
